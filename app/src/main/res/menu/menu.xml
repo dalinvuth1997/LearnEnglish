@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_action_homedark"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/photo"
+            android:icon="@drawable/ic_action_uploaddark"
+            android:title="@string/photos" />
+        <item
+            android:id="@+id/acc"
+            android:icon="@drawable/ic_action_accdark"
+            android:title="@string/acc" />
+        <item
+            android:id="@+id/wishlist"
+            android:icon="@drawable/ic_action_wishlistdark"
+            android:title="@string/wishlist" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_action_settingdark"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_action_aboutdark"
+            android:title="@string/about_us" />
+    </group>
+</menu>
