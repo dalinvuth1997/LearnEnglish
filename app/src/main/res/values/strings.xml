@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">myProject</string>
+    <string name="app_name">LearnEnglish</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
     <!-- Navigation Drawer menu labels -->
